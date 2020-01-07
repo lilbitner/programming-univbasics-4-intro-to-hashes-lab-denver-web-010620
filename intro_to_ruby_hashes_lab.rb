@@ -3,9 +3,7 @@ def new_hash
 end
 
 def my_hash
-{ 
-  name: "Lillian"
-}
+  { "Programming" => "is great!" }
 end
 
 def pioneer
